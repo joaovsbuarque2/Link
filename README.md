@@ -17,8 +17,6 @@ cd Link
 hugo server -D
 ```
 
-Abra http://localhost:1313 para visualizar.
-
 ## Build
 
 ```sh

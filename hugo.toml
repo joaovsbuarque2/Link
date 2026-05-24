@@ -1,0 +1,12 @@
+baseURL = 'https://joao-buarque.github.io/Link/'
+locale = 'pt-br'
+title = 'Meus Links'
+theme = 'LucentLink-Hugo'
+minVersion = '0.115.0'
+
+[params]
+  description = 'Meus links e redes sociais'
+  googleAnalytics = ''
+
+[outputs]
+  home = ['HTML']

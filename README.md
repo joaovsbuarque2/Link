@@ -2,6 +2,8 @@
 
 Meu hub de links pessoais — uma página estilo Linktree feita com [Hugo](https://gohugo.io/) e o tema [LucentLink-Hugo](https://github.com/cx48/LucentLink-Hugo).
 
+https://joaovsbuarque2.github.io/Link/
+
 ## Stack
 
 - [Hugo](https://gohugo.io/) — gerador de site estático

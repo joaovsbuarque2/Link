@@ -1,59 +1,68 @@
 ---
-title: "Meus Links"
-profileImage: "profile.jpg"
-name: "João Buarque"
-description: "Desenvolvedor Front End"
+title: 'Meus Links'
+profileImage: 'profile.png'
+name: 'João Buarque'
+description: 'Desenvolvedor Front End'
 socials:
-  - url: "https://github.com/joaovsbuarque2"
-    icon: "fab fa-github"
-  - url: "https://www.linkedin.com/in/jo%C3%A3o-vitor-buarque-36a014206/"
-    icon: "fab fa-linkedin"
-  - url: "https://x.com/joao_estud84053"
-    icon: "fab fa-x-twitter"
-  - url: "https://www.instagram.com/joaovitorbuarque/"
-    icon: "fab fa-instagram"
+  - url: 'https://github.com/joaovsbuarque2'
+    icon: 'fab fa-github'
+  - url: 'https://www.linkedin.com/in/jo%C3%A3o-vitor-buarque-36a014206/'
+    icon: 'fab fa-linkedin'
+  - url: 'https://x.com/joao_estud84053'
+    icon: 'fab fa-x-twitter'
+  - url: 'https://www.instagram.com/joaovitorbuarque/'
+    icon: 'fab fa-instagram'
 
 links:
-  - href: "https://github.com/joaovsbuarque2"
-    icon: "fab fa-github"
-    title: "GitHub"
-    description: "Meus projetos open-source"
-  - href: "https://www.linkedin.com/in/jo%C3%A3o-vitor-buarque-36a014206/"
-    icon: "fab fa-linkedin"
-    title: "LinkedIn"
-    description: "Meu perfil profissional"
-  - href: "https://x.com/joao_estud84053"
-    icon: "fab fa-x-twitter"
-    title: "X / Twitter"
-    description: "Meus pensamentos e atualizações"
-  - href: "https://www.instagram.com/joaovitorbuarque/"
-    icon: "fab fa-instagram"
-    title: "Instagram"
-    description: "Meu dia a dia"
-  - href: "mailto:joaovitordasilvabuarque@gmail.com"
-    icon: "fas fa-envelope"
-    title: "Email"
-    description: "Entre em contato"
-  - href: "https://joaovsbuarque2.github.io/Blog/"
-    icon: "fas fa-blog"
-    title: "Blog"
-    description: "Meu blog pessoal"
-  - href: "https://joaovsbuarque2.github.io/joaobuarque/"
-    icon: "fas fa-file-alt"
-    title: "Currículo"
-    description: "Meu currículo online"
+  - href: 'https://github.com/joaovsbuarque2'
+    icon: 'fab fa-github'
+    title: 'GitHub'
+    description: 'Meus projetos open-source'
+  - href: 'https://www.linkedin.com/in/jo%C3%A3o-vitor-buarque-36a014206/'
+    icon: 'fab fa-linkedin'
+    title: 'LinkedIn'
+    description: 'Meu perfil profissional'
+  - href: 'https://x.com/joao_estud84053'
+    icon: 'fab fa-x-twitter'
+    title: 'X / Twitter'
+    description: 'Meus pensamentos e atualizações'
+  - href: 'https://www.instagram.com/joaovitorbuarque/'
+    icon: 'fab fa-instagram'
+    title: 'Instagram'
+    description: 'Meu dia a dia'
+  - href: 'mailto:joaovitordasilvabuarque@gmail.com'
+    icon: 'fas fa-envelope'
+    title: 'Email'
+    description: 'Entre em contato'
+  - href: 'https://joaovsbuarque2.github.io/Blog/'
+    icon: 'fas fa-blog'
+    title: 'Blog'
+    description: 'Meu blog pessoal'
+  - href: 'https://joaovsbuarque2.github.io/jb-studio/'
+    icon: 'fas fa-laptop-code'
+    title: 'Projetos'
+    description: 'Meus projetos e trabalhos'
+  - href: 'https://joaovsbuarque2.github.io/joaobuarque/'
+    icon: 'fas fa-file-alt'
+    title: 'Currículo'
+    description: 'Meu currículo online'
 
 messaging:
-  title: "Etiqueta de Mensagens"
+  title: 'Antes de me chamar...'
   items:
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "Inclua contexto sobre por que está entrando em contato."
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "Para colaborações, inclua detalhes do projeto e prazo."
-    - icon: "fas fa-times-circle"
-      color: "text-red-400"
-      text: "Não envie pitches de vendas não solicitados."
----
+    - icon: 'fas fa-rocket'
+      color: 'text-blue-400'
+      text: 'Curto conversar sobre tecnologia, produtos e projetos.'
 
+    - icon: 'fas fa-lightbulb'
+      color: 'text-yellow-400'
+      text: 'Se for uma proposta, envie contexto, objetivo e stack utilizada.'
+
+    - icon: 'fas fa-bolt'
+      color: 'text-purple-400'
+      text: 'Mensagens diretas e objetivas ajudam bastante.'
+
+    - icon: 'fas fa-clock'
+      color: 'text-gray-400'
+      text: 'Posso demorar um pouco para responder se estiver focado em código.'
+---
